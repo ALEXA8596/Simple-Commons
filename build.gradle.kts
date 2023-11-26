@@ -14,5 +14,5 @@ tasks.register<Delete>("clean") {
 }
 
 dependencies {
-    implementation("com.github.ALEXA8596:Simple-Commons:1.0.5")
+    "implementation"("com.github.ALEXA8596:Simple-Commons:1.0.5")
 }
