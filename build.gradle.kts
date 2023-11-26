@@ -12,3 +12,7 @@ tasks.register<Delete>("clean") {
         layout.buildDirectory.asFile
     }
 }
+
+dependencies {
+    implementation 'com.github.ALEXA8596:Simple-Commons:1.0.0'
+}

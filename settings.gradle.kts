@@ -10,7 +10,7 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        maven { setUrl("https://jitpack.io") }
+        maven { url 'https://jitpack.io' }
     }
 }
 rootProject.name = "Simple-Commons"
